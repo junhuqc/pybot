@@ -1,2 +1,6 @@
 tornado==4.3
 wheel==0.26.0
+requests>=2.4.0
+websocket-client>=0.22.0
+slacker>=0.5.5
+six>=1.10.0
